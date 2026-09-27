@@ -27,12 +27,10 @@ I'm a Junior Data Scientist / Data Analyst building end-to-end, production-ready
 - [NumGuard-Fin](https://github.com/Prash2712/16262865_NumGuard-Fin-Implementation) — FinTech AI-QA platform
 - [NHS Operations Intelligence](https://github.com/Prash2712/NHS-operations-intelligence-platform) — A&E operations analytics
 - [Credit Card Fraud Detection](https://github.com/Prash2712/credit-card-fraud-detection) — machine learning for fraud detection
-- [MovePulse](https://github.com/Prash2712/MovePulse-tfl-project) — multimodal data platform for TfL London Underground
+- [TfL Real-Time Transport Intelligence](https://github.com/Prash2712/TFL-realtime-transport-intelligence) — real-time data platform for TfL London transport
 
 ## 📫 Connect
 
 - Based in Coventry, UK — open to **Junior Data Science / Data Analytics / ML** roles 🇬🇧
-
----
 
 *Currently pursuing an MSc in Data Science & Computational Intelligence.*
